@@ -119,6 +119,7 @@ public class GDrawingPanel extends JPanel {
 		}
 		@Override
 		public void mouseEntered(MouseEvent e) {
+			System.out.println("hi");
 		}
 		@Override
 		public void mouseExited(MouseEvent e) {
